@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./img/Logo_THE_GEM.png" alt="Logo THE GEM" width="140px"/>
 
-  # 💎 THE GEM — Landing Page
+  # THE GEM — Landing Page
 
   > Landing page del proyecto integrador del módulo 1 — Soy Henry Full Stack 3.0
 
