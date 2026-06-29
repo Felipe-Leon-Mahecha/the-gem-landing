@@ -166,8 +166,8 @@ La IA se usó como colaboradora técnica y herramienta de aprendizaje, no como r
 
 ## 👤 Autor
 
-**Juan Felipe León Mahecha**  
+**Felipe León Mahecha**  
 Estudiante Full Stack — Soy Henry 3.0  
-📧 felixcompany@ejemplo.com  
-🔗 [LinkedIn](https://www.linkedin.com/)  
+📧 fmleonm19@ejemplo.com  
+🔗 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/felipe-matheus-le%C3%B3n-mahecha-351482408/))  
 💻 [GitHub](https://github.com/Felipe-Leon-Mahecha)
